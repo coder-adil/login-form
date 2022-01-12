@@ -123,12 +123,12 @@ section .container .mainForm .formBox {
   flex-wrap: wrap;
   padding-top: 30px;
   width: 47%;
-  margin: 0 0 15px 0;
+  margin-bottom: 15px;
   width: 100%;
 }
 section .container .mainForm .formBox .inputBox {
   position: relative;
-  margin: 0 0 35px 0;
+  margin-bottom: 35px;
 }
 section .container .mainForm .formBox .inputBox.w50 {
   width: 47%;
